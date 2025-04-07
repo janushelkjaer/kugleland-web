@@ -90,7 +90,7 @@ export default function Home() {
                   kugleland
                 </h1>
                 <p className="mt-8 text-pretty text-lg font-normal text-gray-400 sm:text-md">
-                  Det er okay at være fjollet...
+
                 </p>
               </div>
               <div className="mt-8 flex gap-x-4 justify-center">
